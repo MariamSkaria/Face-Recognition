@@ -27,7 +27,7 @@ Clone the repository:
 ## Displayed Image:
 The image will show rectangles drawn around the detected faces.
 
-![image](images/image.png)
+![face](images/face.jpg)
 
 ## Notes
 Ensure the input image file path is correct.
