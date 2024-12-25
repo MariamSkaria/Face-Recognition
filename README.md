@@ -17,3 +17,8 @@ Make sure you have the following installed before running the script:
 Clone the repository:
 - git clone https://github.com/yourusername/face-recognition-python.git
 -  cd face-recognition-python
+
+## Prerequisites
+1. Install Python 3.x: [Download Python](https://www.python.org/downloads/)
+2. Install the required Python libraries:
+- pip install opencv-python
