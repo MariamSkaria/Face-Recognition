@@ -22,3 +22,21 @@ Clone the repository:
 1. Install Python 3.x: [Download Python](https://www.python.org/downloads/)
 2. Install the required Python libraries:
 - pip install opencv-python
+
+
+## Displayed Image:
+The image will show rectangles drawn around the detected faces.
+
+## Notes
+Ensure the input image file path is correct.
+
+## For better results:
+- Use high-resolution images with clearly visible faces.
+- Adjust the scaleFactor and minNeighbors parameters of detectMultiScale if needed.
+
+## License
+This project is licensed under the GNU. Feel free to use, modify, and distribute.
+
+## Contributing
+Contributions are welcome! If you find bugs or want to improve the script, please submit a pull request.
+
