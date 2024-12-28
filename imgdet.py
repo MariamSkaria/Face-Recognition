@@ -1,3 +1,4 @@
+##install openCV before running this code.
 import cv2
 def detface(imagepath):
     image = cv2.imread(imagepath)
