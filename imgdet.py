@@ -1,6 +1,6 @@
 ##install openCV before running this code.
 import cv2
-def detface(imagepath):
+def det_face(imagepath):
     image = cv2.imread(imagepath)
     if image is None:
         print("Error: Could not load image.")
