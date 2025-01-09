@@ -22,4 +22,3 @@ def det_face(imagepath):
     cv2.destroyAllWindows()
 imagepath = 'image.jpg'
 det_face(imagepath)
-
