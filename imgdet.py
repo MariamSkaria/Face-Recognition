@@ -4,7 +4,7 @@ def det_face(imagepath):
     image = cv2.imread(imagepath)
     if image is None:
         print("Error: Could not load image.")
-    return
+        return
     facecascade = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_frontalface_default.xml')
     if facecascade.empty():
         print("Error: Could not load Haar Cascade for face detection.")
